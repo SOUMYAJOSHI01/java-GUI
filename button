@@ -1,0 +1,14 @@
+import java.awt.*;
+class Third extends frame{
+Third()
+Button b = new button("click here");100,100
+b.setBounds(40,150,60,80);
+add(b);
+setSize(100,100);
+setLayout(null);
+setVisible(true);
+}
+public static void main(String[] args){
+First f = new First;
+}
+}
