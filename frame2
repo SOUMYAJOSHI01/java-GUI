@@ -1,0 +1,11 @@
+import java.awt.*;
+
+public class Frame1 {
+    public static void main(String[] args) {
+
+        Frame f1=new Frame("app");
+        f1.setTitle("java");
+        f1.setSize(500,540);
+        f1.setVisible(true);
+    }
+}
